@@ -5,29 +5,28 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Winnie's Pastries",
   description: "Handmade pastries and cakes for every occasion",
-  // openGraph: {
-  //   title: "Winnie's Pastries",
-  //   description: "Handmade pastries and cakes for every occasion",
-  // },
-  // twitter: {
-  //   title: "Winnie's Pastries",
-  //   description: "Handmade pastries and cakes for every occasion",
-  //   card: "summary_large_image",
-  //   images: [
-  //     {
-  //       url: "/icon.png",
-  //       alt: "Winnie's Pastries Icon",
-  //     },
-  //   ],
-  // },
-  // appleWebApp: {
-  //   title: "Winnie's Pastries",
-  //   statusBarStyle: "default",
-  //   capable: true,
-
-  // },
-  
-  // manifest: "/manifest.json",
+  openGraph: {
+    title: "Winnie's Pastries",
+    description: "Handmade pastries for every occasion.",
+    url: "https://winnies-pasteries-demo.netlify.app",
+    siteName: "Winnie's Pastries",
+    images: [
+      {
+        url: "https://winnies-pasteries-demo.netlify.app/logo.png",
+        width: 1200,
+        height: 630,
+        alt: "Winnie's Pastries Preview",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Winnie's Pastries",
+    description: "Handmade pastries for every occasion.",
+    images: ["https://winnies-pasteries-demo.netlify.app/logo.png"],
+  },
   icons: {
     icon: "/icon.png",
   },

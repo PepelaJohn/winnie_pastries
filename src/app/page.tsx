@@ -2,12 +2,12 @@
 // pages/index.tsx
 import React, { useState } from 'react';
 
-import { Layout } from '../components/Layout';
+
 export default function Home() {
   const [activeTab, setActiveTab] = useState('all');
   
   return (
-   <Layout>
+   
      <div className="min-h-screen flex flex-col">
       
 
@@ -441,7 +441,7 @@ export default function Home() {
         </svg>
       </a>
     </div>
-   </Layout>
+
   );
 }
 
