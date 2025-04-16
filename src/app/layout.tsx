@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     siteName: "Winnie's Pastries",
     images: [
       {
-        url: "https://winnies-pasteries-demo.netlify.app/logo.png",
+        url: "https://winnies-pasteries-demo.netlify.app/logo.jpg",
         width: 1200,
         height: 630,
         alt: "Winnie's Pastries Preview",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Winnie's Pastries",
     description: "Handmade pastries for every occasion.",
-    images: ["https://winnies-pasteries-demo.netlify.app/logo.png"],
+    images: ["https://winnies-pasteries-demo.netlify.app/logo.jpg"],
   },
   icons: {
     icon: "/icon.png",
