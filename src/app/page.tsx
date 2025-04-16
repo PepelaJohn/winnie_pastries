@@ -241,7 +241,7 @@ export default function Home() {
       </div>
 
       {/* Baking Everyday Special */}
-      <div className="py-12 container mx-auto px-4">
+      <div className="py-12 bg-gray-100 container mx-auto px-4">
         <h2 className="text-center text-2xl font-bold mb-8">
           BAKING EVERYDAY <span className="text-pink-500">SPECIAL</span>
         </h2>
@@ -295,7 +295,7 @@ export default function Home() {
       </div>
 
       {/* Newsletter Section */}
-      <div className="py-16 bg-gray-100 relative overflow-hidden">
+      <div className="py-16  relative overflow-hidden">
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-2xl mx-auto">
             <h2 className="text-center text-2xl font-bold mb-2">
