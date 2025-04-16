@@ -318,7 +318,7 @@ export default function Home() {
           </div>
         </div>
         <div className="absolute right-0 top-0 w-1/4 h-full">
-          <img src="/api/placeholder/400/600" alt="Decorative" className="w-full h-full object-cover" />
+          <img src="/images/decorative.jpeg" alt="Decorative" className="w-full h-full object-right" />
         </div>
       </div>
 
