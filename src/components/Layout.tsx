@@ -7,11 +7,11 @@ interface LayoutProps {
   title?: string;
 }
 
-export const Layout = ({ children, title = 'Winnie\'s Pastries' }: LayoutProps) => {
+export const Layout = ({ children}: LayoutProps) => {
   return (
     <div>
       <Head>
-        <title>Winnie's Pastries - Handmade pastries in the heart of Nairobi.</title>
+        <title>Winnie&apos;s Pastries - Handmade pastries in the heart of Nairobi.</title>
         
         <meta name="description" content="Handmade pastries for every occasion" />
         <meta charSet="utf-8" />
