@@ -317,8 +317,8 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="absolute right-0 top-0 w-1/4 h-full">
-          <img src="/images/decorative.jpeg" alt="Decorative" className="w-full h-full object-right" />
+        <div className="absolute max-md:hidden right-0 top-0 w-1/4 h-full">
+          <img src="/images/decorative.jpeg" alt="Decorative" className="w-full h-full object-center" />
         </div>
       </div>
 
