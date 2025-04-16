@@ -175,7 +175,7 @@ export default function Home() {
             <div className="mb-4 aspect-square relative">
               <img src="/images/devils-foodcake.webp" alt="Black Butter Cupcakes" className="w-full h-full object-cover" />
             </div>
-            <h3 className="font-medium mb-1">Devil's Foodcake</h3>
+            <h3 className="font-medium mb-1">Devil&apos;s Foodcake</h3>
             <p className="mb-3">KSH 4300/=</p>
             <button className="w-full border cursor-pointer border-gray-300 py-2 text-sm hover:bg-gray-50">Order</button>
           </div>
@@ -195,7 +195,7 @@ export default function Home() {
           <h2 className="text-center text-2xl font-bold mb-8">CORPORATE CELEBRATIONS</h2>
           
           <p className="text-center mb-8 max-w-3xl mx-auto">
-            Perfect for corporate occasions? Everyone loves cake and, what is Winnie's Pastries? Corporate Account, you can always rely on exactly what's available anytime looking with your team onboard.
+            Perfect for corporate occasions? Everyone loves cake and, what is Winnie&apos;s Pastries? Corporate Account, you can always rely on exactly what&apos;s available anytime looking with your team onboard.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
@@ -206,7 +206,7 @@ export default function Home() {
                 </svg>
               </div>
               <div>
-                <p className="text-sm">Get everything you'll need, delivered</p>
+                <p className="text-sm">Get everything you&apos;ll need, delivered</p>
               </div>
             </div>
             
@@ -251,7 +251,7 @@ export default function Home() {
               {/* <img src="/api/placeholder/32/32" alt="User" className="w-full h-full object-cover" /> */}
             </div>
             <div>
-              <p className="text-green-500 mb-1">🍰 Great to buy online with very fast App Pay, My Cheesecake was gorgeous looking and delicious! And if you're after speed well the ordering is a delicious experience of the shiniest crust enhance in flavour by the caramel. Definitely.</p>
+              <p className="text-green-500 mb-1">🍰 Great to buy online with very fast App Pay, My Cheesecake was gorgeous looking and delicious! And if you&apos;re after speed well the ordering is a delicious experience of the shiniest crust enhance in flavour by the caramel. Definitely.</p>
               <p className="text-sm italic">Christine • by bit.ly but by no one else</p>
             </div>
           </div>
@@ -303,11 +303,11 @@ export default function Home() {
             <h3 className="text-center text-2xl font-bold mb-8">OF THE ACTION!</h3>
             
             <p className="text-center mb-8">
-              Join our mailing list for the latest baking news, Winnie's pastries updates, and more.
+              Join our mailing list for the latest baking news, Winnie&apos;s pastries updates, and more.
             </p>
             
             <p className="text-center text-sm mb-8">
-              By entering your email address here you are consenting to opt into the Winnie's Pastries United mailing list and your personal details in accordance with our Data Privacy Policy.
+              By entering your email address here you are consenting to opt into the Winnie&apos;s Pastries United mailing list and your personal details in accordance with our Data Privacy Policy.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-2 max-w-md mx-auto">
@@ -328,7 +328,7 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-2xl font-light mb-4">LIFE IS SWEET</h2>
             <div className="text-lg">
-              Winnie's pastries
+              Winnie&apos;s pastries
             </div>
             <div className="text-xs">
               BAKING SINCE 2020 • ESTABLISHED IN KENYA
@@ -430,7 +430,7 @@ export default function Home() {
           </div>
           
           <div className="text-center mt-8 text-sm">
-            <p>© 2025 Winnie's Pastries • All Rights Reserved</p>
+            <p>© 2025 Winnie&apos;s Pastries • All Rights Reserved</p>
           </div>
         </div>
       </footer>
