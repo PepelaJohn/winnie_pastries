@@ -241,7 +241,8 @@ export default function Home() {
       </div>
 
       {/* Baking Everyday Special */}
-      <div className="py-12 bg-gray-100 container mx-auto px-4">
+     <div className="bg-gray-100 w-full">
+     <div className="py-12  container mx-auto px-4">
         <h2 className="text-center text-2xl font-bold mb-8">
           BAKING EVERYDAY <span className="text-pink-500">SPECIAL</span>
         </h2>
@@ -293,6 +294,7 @@ export default function Home() {
           </button>
         </div>
       </div>
+     </div>
 
       {/* Newsletter Section */}
       <div className="py-16  relative overflow-hidden">
@@ -319,7 +321,7 @@ export default function Home() {
           </div>
         </div>
         <div className="absolute max-md:hidden right-0 top-0 w-1/4 h-full">
-          <img src="/images/decorative.jpeg" alt="Decorative" className="w-full h-full object-center" />
+          <img src="/images/decorative.jpeg" alt="Decorative" className=" h-full object-right object-cover" />
         </div>
       </div>
 
