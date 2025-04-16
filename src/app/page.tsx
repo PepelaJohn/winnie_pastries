@@ -89,7 +89,7 @@ export default function Home() {
 </div>
 
 {/* Hero Section - Mobile Friendly */}
-<div className="relative h-[50vh] sm:h-[70vh] md:h-[90vh]">
+<div className="relative h-[90vh]">
   <div className="absolute inset-0 bg-cover bg-center" style={{backgroundImage: "url('/images/hero.jpeg')"}}></div>
   <div className="absolute inset-0 flex flex-col justify-center items-center text-white text-center px-4">
     <div className="bg-black/40 rounded-lg sm:rounded-2xl  p-4 sm:p-6 w-full max-w-lg sm:max-w-xl md:max-w-2xl lg:max-w-3xl h-auto sm:h-80 md:h-96 flex flex-col items-center justify-center">
