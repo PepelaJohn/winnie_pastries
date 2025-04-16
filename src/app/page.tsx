@@ -1,4 +1,5 @@
 'use client'
+import Link from 'next/link';
 // pages/index.tsx
 import React, { useState } from 'react';
 
@@ -23,9 +24,9 @@ export default function Home() {
         </div>
         
         <div className="flex-grow flex justify-center">
-          <div className="text-white text-2xl overflow-hidden font-light">
+          <Link href={'/'} className="text-white text-2xl overflow-hidden font-light">
             <img src="/logo.png" alt="Logo" className='h-[60px]' />
-          </div>
+          </Link>
         </div>
         
         <div className="flex items-center space-x-3">
