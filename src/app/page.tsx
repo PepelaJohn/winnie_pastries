@@ -46,7 +46,7 @@ export default function Home() {
       </div>
 
 
-<div className="border-b bg-[#541414] text-white overflow-hidden border-gray-200">
+<div className="border-b bg-[#541414] text-white overflow-hidden max-sm:hidden border-gray-200">
   <div className="container mx-auto py-3 px-4">
     <div className="overflow-x-auto">
       <ul className="flex space-x-4 justify-start md:justify-center text-sm whitespace-nowrap min-w-max md:min-w-0 px-1">
